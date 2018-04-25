@@ -2,7 +2,16 @@
 <project version="19.1">
     <meta>
         <filters directoryPatterns="" filePatterns="2016Handbooks.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options/>
+        <options>
+            <serialized version="19.1" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
     </meta>
     <projectTree name="2016Handbooks.xpr">
         <folder path="."/>
