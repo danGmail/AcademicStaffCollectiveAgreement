@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:htm="http://www.w3.org/1999/xhtml" exclude-result-prefixes="xs tei htm ext" version="2.0">
     <xsl:output doctype-public="-//W3C//DTD XHTML 1.1//EN" encoding="utf-8" indent="yes"
-        method="xml" xml:space="default"/>
+        method="html" xml:space="default"/>
     <xsl:strip-space elements="*"/>
 
     <!-- Document metadata -->
@@ -35,6 +35,7 @@
     </xsl:variable>
 
     <xsl:template match="/">
+        <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html xmlns:htm="http://www.w3.org/1999/xhtml">
             <xsl:apply-templates/>
         </html>
