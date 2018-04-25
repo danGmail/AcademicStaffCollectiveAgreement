@@ -10,9 +10,10 @@
          </editionStmt>
          <publicationStmt>
             <authority>University of Lethbridge Faculty Association (ULFA)</authority>
+            <date when="2018-04-18"/>
          </publicationStmt>
          <sourceDesc>
-            <p>Converted from the official Word document supplied by Derrick Antson</p>
+            <p>Converted by Dan O'Donnell from the official Word document supplied by Derrick Antson</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -44,27 +45,25 @@
             <item xml:id="s-d1e37" ana="prologue">
                <hi rend="bold">OBJECTIVES</hi>
                <list>
-                  <item xml:id="s-d1e40" n="•">The main objectives of this Handbook are the
+                  <item xml:id="s-d1e40">The main objectives of this Handbook are the
                      specification of principles and procedures that reflect procedural fairness for
                      the appointment of Sessional Lecturers, the peaceful settlement of all
                      disputes, misunderstandings and grievances and the promotion of harmonious
                      relations between the Board and the Association with respect to Sessional
                      Lecturers.</item>
-                  <item xml:id="s-d1e42">The Board and the Association acknowledge:<list
-                        type="unordered">
-                        <item xml:id="s-d1e45" n="•">their joint responsibility for the reasonable
+                  <item xml:id="s-d1e42">The Board and the Association acknowledge:<list type="unordered">
+                        <item xml:id="s-d1e45">their joint responsibility for the reasonable
                            and just execution of the terms of this Handbook, and</item>
-                        <item xml:id="s-d1e47" n="•">subject to the provisions of the Post-Secondary
+                        <item xml:id="s-d1e47">subject to the provisions of the Post-Secondary
                            Learning Act and all applicable provincial and federal statutes, as
                            amended from time to time, this Handbook is binding on the Association,
                            the Sessional Lecturers and the Board.</item>
                      </list>
                   </item>
-                  <item xml:id="s-d1e49" n="•">Toward that end, any invocation of Article <ref
-                        target="#s-d1e54">1</ref> or Article <ref target="#s-d1e547">14</ref>
+                  <item xml:id="s-d1e49">Toward that end, any invocation of Article <ref target="#s-d1e54">1</ref> or Article <ref target="#s-d1e547">14</ref>
                      regarding a Handbook procedure in progress shall stay the procedure pending a
                      resolution of the interpretation or grievance.</item>
-                  <item xml:id="s-d1e51" n="•">Any deadlines mentioned in this agreement may be
+                  <item xml:id="s-d1e51">Any deadlines mentioned in this agreement may be
                      varied by written mutual consent prior to the deadline, by the Board and the
                      Association and by the Sessional Lecturer in cases where the deadline affects
                      the Sessional Lecturer concerned.</item>
@@ -119,8 +118,7 @@
                   <item n="1.09" xml:id="s-d1e87"> The arbitrator's decision shall become a schedule
                      of this Handbook, until it is incorporated by amendment of the Sessional
                      Lecturers Handbook pursuant to Article <ref target="#s-d1e153">3</ref>.</item>
-                  <item n="1.10" xml:id="s-d1e91">Any interpretation pursuant to Article <ref
-                        target="#s-d1e65">1.05</ref> or Article <ref target="#s-d1e65">1.05</ref>
+                  <item n="1.10" xml:id="s-d1e91">Any interpretation pursuant to Article <ref target="#s-d1e65">1.05</ref> or Article <ref target="#s-d1e65">1.05</ref>
                      shall be made known in writing by the President of the University to persons
                      affected by it.</item>
                   <item n="1.11" xml:id="s-d1e93">The costs of arbitration shall be shared by the
@@ -453,8 +451,7 @@
                            the author does not respond, the unsolicited letter shall be destroyed or
                            returned, whichever is more appropriate. Letters of assessment submitted
                            by a Member for inclusion on his/her personal file shall be dealt with
-                           according to the provisions of Article <ref target="#s-d1e345"
-                           >8.06</ref>.</item>
+                           according to the provisions of Article <ref target="#s-d1e345">8.06</ref>.</item>
                         <item n="8.05.4" xml:id="s-d1e341"> A Member shall, upon written request, be
                            given by the Dean of a Faculty/Dean of a School the names of authors of
                            the confidential letters of reference in his/her personal file, and/or a
@@ -486,8 +483,7 @@
                   <item n="8.07" xml:id="s-d1e354">
                      <hi>Materials Obtained Pursuant to the Evaluation of Teaching</hi>.
                         <p>Materials obtained pursuant to a policy on teaching evaluation
-                        established shall be dealt with according to Article <ref target="#s-d1e324"
-                           >8.03</ref>. Procedures shall be used that ensure the identity of student
+                        established shall be dealt with according to Article <ref target="#s-d1e324">8.03</ref>. Procedures shall be used that ensure the identity of student
                         respondents is protected to the maximum extent permitted by law.</p>
                   </item>
                   <item n="8.08" xml:id="s-d1e359">Copies of documents in a Member’s personal file
@@ -574,8 +570,7 @@
                         <item n="9.03.1" xml:id="s-d1e408">The appointment of a Sessional Lecturer
                            will take into account relevant experience, academic qualifications and,
                            where appropriate, prior teaching effectiveness as determined through
-                           previous performance evaluation(s) (Article <ref target="#s-d1e542"
-                              >11</ref>).</item>
+                           previous performance evaluation(s) (Article <ref target="#s-d1e542">11</ref>).</item>
                         <item n="9.03.2" xml:id="s-d1e410">Sessional Lecturers appointed by a Dean
                            of Faculty/ Dean of School may teach no more than one (1) semester course
                            in a designated semester. </item>
@@ -691,7 +686,7 @@
                         </item>
                         <item n="10.02.2" xml:id="s-d1e465">
                            <hi>Participation and Accompaniment</hi>
-                           <p>Except as provided in Article <ref target="#s-d1e451">10.02.1</ref>,
+                           <p>Except as provided in Article <ref target="#s-d1e451">10.02</ref>,
                               Members shall have the right to express opinions and to participate by
                               means of their representatives in procedures provided by this
                               Handbook. Members have the right to be accompanied by another Member
@@ -866,8 +861,7 @@
                      of appointment. The Sessional Lecturer will give one month notice in writing to
                      the Dean of the School who made the original appointment. </item>
                   <item n="12.03" xml:id="s-d1e564">Termination of a Sessional Lecturer’s
-                     appointment by dismissal is described within Article <ref target="#s-d1e600"
-                        >15</ref>.</item>
+                     appointment by dismissal is described within Article <ref target="#s-d1e600">15</ref>.</item>
                   <item n="12.04" xml:id="s-d1e566">Mutual Agreement Either the Dean or a Sessional
                      Lecturer may at any time propose termination of the Sessional Lecturer's
                      appointment under mutually acceptable terms.</item>
@@ -914,8 +908,7 @@
                      representative or advisor of his or her choice also attend the meeting. If the
                      issue is not resolved by this meeting, the grievor may proceed to claim the
                      grievance in the manner described within this Article. The timing of this
-                     meeting shall not affect the application of Article <ref target="#s-d1e598"
-                        >14.02</ref>.</item>
+                     meeting shall not affect the application of Article <ref target="#s-d1e598">14.02</ref>.</item>
                   <item n="14.04" xml:id="s-d1e604">In the event that the President claims a
                      grievance against the Association, the President shall present the grievance in
                      writing, specifying the terms to which the grievance applies and providing such
@@ -966,8 +959,7 @@
                      of the Association, as appropriate, has received notice of referral. Failing
                      agreement within those seven days, the arbitrator shall be appointed by a Judge
                      of the Alberta Court of Queen's Bench upon the Petition of either party. </item>
-                  <item n="14.09" xml:id="s-d1e626">For the purposes of Article <ref
-                        target="#s-d1e547">14</ref>, and subject to the particular provisions below,
+                  <item n="14.09" xml:id="s-d1e626">For the purposes of Article <ref target="#s-d1e547">14</ref>, and subject to the particular provisions below,
                      the arbitrator shall conduct the arbitration and assign the costs of
                      arbitration in accordance with the provisions of the Arbitration Act of the
                      Province of Alberta: <list>
@@ -1019,13 +1011,11 @@
                            discipline of a Sessional Lecturer, the Dean of the Faculty/Dean of the
                            School will meet with the Sessional Lecturer to seek a response to the
                            allegations against the Sessional Lecturer. </item>
-                        <item n="15.03.2" xml:id="s-d1e668">Following the meeting in Article <ref
-                              target="#s-d1e664">15.03.1</ref>, the Dean of the Faculty/Dean of the
+                        <item n="15.03.2" xml:id="s-d1e668">Following the meeting in Article <ref target="#s-d1e664">15.03.1</ref>, the Dean of the Faculty/Dean of the
                            School may: impose one of the disciplinary measures identified in Article
                               <ref target="#s-d1e650">15.02</ref>; decline to proceed further with
                            the disciplinary process. </item>
-                        <item n="15.03.3" xml:id="s-d1e672">When the process under Article <ref
-                              target="#s-d1e659">15.03</ref> has been commenced by the Dean of the
+                        <item n="15.03.3" xml:id="s-d1e672">When the process under Article <ref target="#s-d1e659">15.03</ref> has been commenced by the Dean of the
                            Faculty/Dean of the School, the Dean of the Faculty/Dean of the School
                            will inform the Sessional Lecturer in writing, with respect to the Dean’s
                            decision under Article <ref target="#s-d1e668">15.03.2</ref>.</item>
@@ -1054,8 +1044,7 @@
                      Board. </item>
                   <item n="15.05" xml:id="s-d1e688">All materials pertaining to the Sessional
                      Lecturer which are used pursuant to the Article shall be deemed part of the
-                     Sessional Lecturer’s Personal File, subject to the provisions of Article <ref
-                        target="#s-d1e279">8</ref>.</item>
+                     Sessional Lecturer’s Personal File, subject to the provisions of Article <ref target="#s-d1e279">8</ref>.</item>
                   <item n="15.06" xml:id="s-d1e690">Wherever possible, actions pursuant to this
                      Article shall be expeditious. Specified time limits may be extended by mutual
                      consent, given in writing and signed by both parties.</item>
@@ -1072,8 +1061,7 @@
                   <item n="16.02" xml:id="s-d1e700">When any of the aforementioned holidays fall on
                      a Saturday or Sunday, the President shall designate the working day immediately
                      preceding or following as the holiday. </item>
-                  <item n="16.03" xml:id="s-d1e704">Notwithstanding Article <ref target="#s-d1e700"
-                        >16.02</ref>, Sessional Lecturers will ensure adherence to the instructional
+                  <item n="16.03" xml:id="s-d1e704">Notwithstanding Article <ref target="#s-d1e700">16.02</ref>, Sessional Lecturers will ensure adherence to the instructional
                      time per academic course and the identified number of classes per course as
                      described in the Academic Schedule of the most recently published edition of
                      the University Calendar. </item>
@@ -1129,13 +1117,11 @@
                            Member.</item>
                         <item n="18.01.2" xml:id="s-d1e744">The rights and obligations of the Board
                            and of the Member with respect to copyright and other rights and works
-                           produced by Members under the provisions of Article <ref
-                              target="#s-d1e740">18.01.1</ref> shall be set forth as follows:<list>
+                           produced by Members under the provisions of Article <ref target="#s-d1e740">18.01.1</ref> shall be set forth as follows:<list>
                               <item n="18.01.2.A" xml:id="s-d1e748">The Board will normally transfer
                                  its ownership rights on such material to the author (or group of
                                  authors) upon the condition that the author agrees to the
-                                 conditions in Article <ref target="#s-d1e757"
-                                 >18.01.2(d)</ref>.</item>
+                                 conditions in Article <ref target="#s-d1e757">18.01.2.D</ref>.</item>
                               <item n="18.01.2.B" xml:id="s-d1e751">Any author who desires to secure
                                  the ownership of copyright shall apply to the President for such
                                  transfer on an Assignment of Copyright Form as provided in Schedule
@@ -1185,11 +1171,7 @@
                            </list>
                         </item>
                         <item n="18.01.3" xml:id="s-d1e775">Except for the cases referred to in
-                           Article <ref target="#s-d1e740">18.01.1</ref> and Article <ref
-                              target="#s-d1e748">18.01.2(a)</ref>, <ref target="#s-d1e751"
-                           >(b)</ref>, <ref target="#s-d1e754">(c)</ref>, <ref target="#s-d1e757"
-                              >(d)</ref>, <ref target="#s-d1e768">(e)</ref>, and <ref
-                              target="#s-d1e771">(f)</ref>, the Board waives, disclaims and abandons
+                           Article <ref target="#s-d1e740">18.01.1</ref> and Article <ref target="#s-d1e748">18.01.2.A</ref>, <ref target="#s-d1e751">18.01.2.B</ref>, <ref target="#s-d1e754">18.01.2.C</ref>, <ref target="#s-d1e757">18.01.2.D</ref>, <ref target="#s-d1e768">18.01.2.E</ref>, and <ref target="#s-d1e771">18.01.2.F</ref>, the Board waives, disclaims and abandons
                            all right, title, interest or estate in a copyright work produced by a
                            Member.</item>
                      </list>
@@ -1203,11 +1185,12 @@
                   </item>
                   <item n="18.03" xml:id="s-d1e782">
                      <hi>Interpretation of ‘specific works’ and ‘normal assignment’ as used in
-                        Article <ref target="#s-d1e740">18.01.1</ref></hi>
+                        Article <ref target="#s-d1e740">18.01.1</ref>
+                     </hi>
                      <p>In Article <ref target="#s-d1e740">18.01.1</ref>, ‘specific works’ shall
                         mean antecedently named and described works prepared by a Member. Those
                         categories on which ‘specific works’ may be included are listed in Article
-                           <ref target="#s-d1e771">18.01.2(f)</ref> ‘Normal assignment’ shall not be
+                           <ref target="#s-d1e771">18.01.2.F</ref> ‘Normal assignment’ shall not be
                         construed in such a way as to infringe upon a Member’s academic freedom to
                         choose his/her own area of research within his/her discipline.</p>
                   </item>
@@ -1297,15 +1280,13 @@
                         Article <ref target="#s-d1e180">3.02</ref>.</p>
                      <list>
                         <item n="C.02.1" xml:id="s-d1e854">During the month of November of a year in
-                           which the compensation contract as provided in Schedule <ref
-                              target="#s-d1e803">A</ref> is to expire, and prior to negotiations,
+                           which the compensation contract as provided in Schedule <ref target="#s-d1e803">A</ref> is to expire, and prior to negotiations,
                            the Board and the Association shall jointly agree on an Arbitrator for
                            purposes of final offer selection (FOS). As per past practice, both
                            parties will continue to exchange names until such time as one name is
                            deemed mutually acceptable, or must be drawn by lot. </item>
                         <item n="C.02.2" xml:id="s-d1e856">Not later than February 1 of a year in
-                           which the compensation contract as provided in Schedule <ref
-                              target="#s-d1e803">A</ref> is to expire, and prior to negotiations,
+                           which the compensation contract as provided in Schedule <ref target="#s-d1e803">A</ref> is to expire, and prior to negotiations,
                            the Board and the Association shall appoint duly authorized negotiating
                            teams and communicate the names to the other party. Shortly thereafter,
                            the parties will meet to exchange initial positions and set a schedule
@@ -1328,8 +1309,7 @@
                            <hi>Arbitration</hi>
                            <list>
                               <item n="C.02.5.A" xml:id="s-d1e874">Each party shall submit to the
-                                 Arbitrator the written statement (prepared for Schedule <ref
-                                    target="#s-d1e858">C02.3</ref>) of its’ final position with
+                                 Arbitrator the written statement (prepared for Schedule <ref target="#s-d1e858">C.02.3</ref>) of its’ final position with
                                  respect to each unresolved item for negotiation and a brief written
                                  statement of its arguments. </item>
                               <item n="C.02.5.B" xml:id="s-d1e876">The Arbitrator may hold a hearing
@@ -1366,8 +1346,7 @@
                      the preparation of such works. </item>
                   <item n="D.02" xml:id="s-d1e892">The University will normally transfer its
                      ownership rights on such material to the author (or group of authors) upon the
-                     condition that the author agrees to the conditions in Schedule <ref
-                        target="#s-d1e898">D.05</ref>.</item>
+                     condition that the author agrees to the conditions in Schedule <ref target="#s-d1e898">D.05</ref>.</item>
                   <item n="D.03" xml:id="s-d1e894">Any author who desires to secure the ownership of
                      copyright shall apply to the President for such transfer on an Assignment of
                      Copyright Form. </item>
@@ -1486,8 +1465,7 @@
                   <item n="G.03" xml:id="s-d1e1059">The parties further agree to modify the
                      following Schedules in the July 1, 2014 Sessional Lecturers Handbook as
                      indicated in the attachments:<list>
-                        <item n="G.03.1" xml:id="s-d1e1062">Schedule <ref target="#s-d1e806"
-                              >A.01</ref>- Minimum Sessional Lecturer Stipend</item>
+                        <item n="G.03.1" xml:id="s-d1e1062">Schedule <ref target="#s-d1e806">A.01</ref>- Minimum Sessional Lecturer Stipend</item>
                         <item n="G.03.2" xml:id="s-d1e1064">Schedule <ref target="#s-d1e813">E</ref>
                            – Teaching Supplies and Photocopying.</item>
                      </list>
