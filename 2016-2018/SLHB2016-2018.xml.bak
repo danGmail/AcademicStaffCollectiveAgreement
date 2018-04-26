@@ -78,29 +78,34 @@
                      found to be missing in this Handbook, shall be referred to either the President
                      of the University or the President of the Association. Only the President of
                      the University or the President of the Association may choose to convene the
-                     Interpretation Committee as in Article <ref target="#s-d1e70">2.01</ref>. The
+                     Interpretation Committee as in Article <ref target="#s-d1e70">1.03.1</ref>. The
                      Interpretation Committee shall resolve uncertainties caused by the
                      omitted/missing item or provision.</item>
                   <item n="1.02" xml:id="s-d1e66">Uncertainties or disagreements about the meaning
                      of the Articles of this Handbook shall be referred to either the President of
                      the University or the President of the Association. Only the President of the
                      University or the President of the Association may choose to convene the
-                     Interpretation Committee as in Article <ref target="#s-d1e70">2.01</ref>.
+                     Interpretation Committee as in Article <ref target="#s-d1e70">1.03.1</ref>.
                      The Interpretation Committee shall resolve uncertainties or disagreements about
                      the meaning of the Articles of this Handbook.</item>
-                  <item n="1.03" xml:id="s-d1e68">The Interpretation Committee shall consist of
-                     the President of the University and the President of the Association.</item>
+                  <item n="1.03" xml:id="s-d1e68">The Interpretation Committee shall consist of the
+                     President of the University and the President of the Association.<list>
+                        <item n="1.03.1" xml:id="s-d1e70">The Interpretation Committee shall meet
+                           within five (5) working days of the written request of either of its
+                           members.</item>
+                     </list>
+                  </item>
                   <item n="1.04" xml:id="s-d1e65">Where the Interpretation Committee agrees upon an
                      interpretation, it shall become a Schedule of this Handbook until it is
                      incorporated by amendment of the Sessional Lecturers Handbook pursuant to
                      Article <ref target="#s-d1e153">3</ref>.</item>
                   <item n="1.05" xml:id="s-d1e79">Where the Interpretation Committee cannot agree
                      upon an interpretation within five (5) working days of the meeting of Article
-                        <ref target="#s-d1e70">2.01</ref>, each member shall set forth an
+                        <ref target="#s-d1e70">1.03.1</ref>, each member shall set forth an
                      interpretation in writing, and the two interpretations shall be submitted to an
                      arbitrator jointly selected by them. If an Interpretation Committee cannot
                      agree on the selection of an arbitrator within five (5) working days after the
-                     meeting of Article <ref target="#s-d1e70">2.01</ref>, the arbitrator shall be
+                     meeting of Article <ref target="#s-d1e70">1.03.1</ref>, the arbitrator shall be
                      appointed by a Judge of the Alberta Court of Queen's Bench upon the Petition of
                      either party. </item>
                   <item n="1.06" xml:id="s-d1e81">The arbitrator shall meet only with both
@@ -127,101 +132,99 @@
                <hi rend="bold">Definitions</hi>
                <p>In this Handbook:</p>
                <list>
-                  <item n="2.01" xml:id="s-d1e70">The Interpretation Committee shall meet within
-                     five (5) working days of the written request of either of its members.</item>
-                  <item n="2.02" xml:id="s-d1e102">"Academic Assistant" shall mean a member of the
+                  <item n="2.01" xml:id="s-d1e102">"Academic Assistant" shall mean a member of the
                      academic staff holding an appointment with the rank of Academic Assistant. </item>
-                  <item n="2.03" xml:id="s-d1e104">"Academic Staff Member/Academic Staff" shall mean
+                  <item n="2.02" xml:id="s-d1e104">"Academic Staff Member/Academic Staff" shall mean
                      an individual University employee or a category of University employees
                      designated by the Board as Academic Staff. </item>
-                  <item n="2.04" xml:id="s-d1e106">"Association" shall mean The University of
+                  <item n="2.03" xml:id="s-d1e106">"Association" shall mean The University of
                      Lethbridge Faculty Association. </item>
-                  <item n="2.05" xml:id="s-d1e108">"Board" shall mean the Board of Governors of The
+                  <item n="2.04" xml:id="s-d1e108">"Board" shall mean the Board of Governors of The
                      University of Lethbridge. </item>
-                  <item n="2.06" xml:id="s-d1e110">"Dean" shall mean the Dean of a Faculty/School or
+                  <item n="2.05" xml:id="s-d1e110">"Dean" shall mean the Dean of a Faculty/School or
                      a person authorized to act in that capacity. </item>
-                  <item n="2.07" xml:id="s-d1e112">"Department" shall mean an academic unit
+                  <item n="2.06" xml:id="s-d1e112">"Department" shall mean an academic unit
                      established by the Board under that designation. </item>
-                  <item n="2.08" xml:id="s-d1e114">"Department Chair" shall mean a person authorized
+                  <item n="2.07" xml:id="s-d1e114">"Department Chair" shall mean a person authorized
                      to act in that capacity. </item>
-                  <item n="2.09" xml:id="s-d1e116">"Dean of School" shall mean a person authorized
+                  <item n="2.08" xml:id="s-d1e116">"Dean of School" shall mean a person authorized
                      to act in that capacity. </item>
-                  <item n="2.10" xml:id="s-d1e118">"Faculty" shall mean an academic unit established
+                  <item n="2.09" xml:id="s-d1e118">"Faculty" shall mean an academic unit established
                      by the Board under that designation.</item>
-                  <item n="2.11" xml:id="s-d1e120">"Faculty Member" shall mean a member of the
+                  <item n="2.10" xml:id="s-d1e120">"Faculty Member" shall mean a member of the
                      academic staff with the rank of Professor, Associate Professor, Assistant
                      Professor or Lecturer. </item>
-                  <item n="2.12" xml:id="s-d1e122">"Faculty Member” shall mean a member of the
+                  <item n="2.11" xml:id="s-d1e122">"Faculty Member” shall mean a member of the
                      academic staff with the rank of Professor, Associate Professor, or Assistant
                      Professor.</item>
-                  <item n="2.13" xml:id="s-d1e125">“Instructor” shall mean an employee of the
+                  <item n="2.12" xml:id="s-d1e125">“Instructor” shall mean an employee of the
                      academic staff holding an appointment with the rank of Instructor</item>
-                  <item n="2.14" xml:id="s-d1e127">“Instructor/Academic Assistant” shall mean
+                  <item n="2.13" xml:id="s-d1e127">“Instructor/Academic Assistant” shall mean
                      Instructor(s) or Academic Assistant(s).</item>
-                  <item n="2.15" xml:id="s-d1e129">"Member" shall mean an employee of the Board who
+                  <item n="2.14" xml:id="s-d1e129">"Member" shall mean an employee of the Board who
                      is a Sessional Lecturer. </item>
-                  <item n="2.16" xml:id="s-d1e131">"Parties" shall mean the Board and the
+                  <item n="2.15" xml:id="s-d1e131">"Parties" shall mean the Board and the
                      Association. </item>
-                  <item n="2.17" xml:id="s-d1e119">"Personal file" shall mean the file maintained by
+                  <item n="2.16" xml:id="s-d1e119">"Personal file" shall mean the file maintained by
                      the Dean pertaining to a Member and which contains materials subject to Article
                         <ref target="#s-d1e279">8</ref> of this Handbook.</item>
-                  <item n="2.18" xml:id="s-d1e137">"Post-retirement contract" shall mean an
+                  <item n="2.17" xml:id="s-d1e137">"Post-retirement contract" shall mean an
                      employment contract that has been negotiated between a retired Faculty Member
                      and the Board made at the discretion of the Board not including contracts for a
                      Sessional Lecturer. </item>
-                  <item n="2.19" xml:id="s-d1e139">"President" shall mean the President of the
+                  <item n="2.18" xml:id="s-d1e139">"President" shall mean the President of the
                      University, or a person authorized to act in that capacity.</item>
-                  <item n="2.20" xml:id="s-d1e141">"Procedural fairness" shall mean <list>
-                        <item n="2.20.1" xml:id="s-d1e144">the duty to make a decision without a
+                  <item n="2.19" xml:id="s-d1e141">"Procedural fairness" shall mean <list>
+                        <item n="2.19.1" xml:id="s-d1e144">the duty to make a decision without a
                            reasonable apprehension of bias or a conflict of interest. Prior
                            familiarity with the facts of a case does not, by itself, constitute a
                            reasonable apprehension of bias, nor do past friendly or unfriendly
                            relationships. AND</item>
-                        <item n="2.20.2" xml:id="s-d1e146">the duty of an adjudicator to interpret
+                        <item n="2.19.2" xml:id="s-d1e146">the duty of an adjudicator to interpret
                            and apply the Sessional Lecturers Handbook, in a reasonable manner. A
                            disagreement with a decision or judgment does not, in itself, constitute
                            a misinterpretation or misapplication of the Sessional Lecturers
                            Handbook, nor does it constitute an unreasonable interpretation or
                            application of the Sessional Lecturers Handbook. AND </item>
-                        <item n="2.20.3" xml:id="s-d1e148">the adjudicator or adjudicators shall,
+                        <item n="2.19.3" xml:id="s-d1e148">the adjudicator or adjudicators shall,
                            within reason, ensure that adequate evidence is presented or collected to
                            meet the standard of proof appropriate to support the decision and shall
                            give due consideration to such evidence. AND </item>
-                        <item n="2.20.4" xml:id="s-d1e150">the parties to the procedure have a right
+                        <item n="2.19.4" xml:id="s-d1e150">the parties to the procedure have a right
                            to know all the relevant evidence presented in the decision making
                            process. AND </item>
-                        <item n="2.20.5" xml:id="s-d1e152">the parties to the procedure have an
+                        <item n="2.19.5" xml:id="s-d1e152">the parties to the procedure have an
                            opportunity to respond to all relevant evidence presented in the decision
                            making process. AND </item>
-                        <item n="2.20.6" xml:id="s-d1e154">the parties to the procedure have a
+                        <item n="2.19.6" xml:id="s-d1e154">the parties to the procedure have a
                            reasonable opportunity to present their case to the adjudicator or
                            adjudicators.</item>
                      </list>
                   </item>
-                  <item n="2.21" xml:id="s-d1e156">"School" shall mean an academic unit established
+                  <item n="2.20" xml:id="s-d1e156">"School" shall mean an academic unit established
                      by the Board under that designation. </item>
-                  <item n="2.22" xml:id="s-d1e158">"Senior Academic Administrator" shall mean Deans
+                  <item n="2.21" xml:id="s-d1e158">"Senior Academic Administrator" shall mean Deans
                      and Associate Deans, Dean, Vice-President (Academic) and Associate
                      Vice-President (Academic), Associate Vice-President (Research), Vice-President
                      (Administration) and Associate Vice-President (Administration), and President,
                      or a person authorized to act in that capacity.</item>
-                  <item n="2.23" xml:id="s-d1e160">"Sessional Lecturer" shall mean a member of the
+                  <item n="2.22" xml:id="s-d1e160">"Sessional Lecturer" shall mean a member of the
                      Academic Staff appointed by the Dean of a Faculty/Dean of a School to teach no
                      more than one semester course in a designated semester. Normally, the Sessional
                      Lecturer has full responsibility for the course, but on occasion a Sessional
                      Lecturer will be a member appointed at a partial stipend to teach a defined
                      portion of a course with corresponding teaching responsibilities. </item>
-                  <item n="2.24" xml:id="s-d1e162">"Sessional Lecturers Handbook" shall mean the
+                  <item n="2.23" xml:id="s-d1e162">"Sessional Lecturers Handbook" shall mean the
                      Handbook pertaining to Sessional Lecturers, including schedules thereto. The
                      edition of the Sessional Lecturers Handbook in effect is the one most recently
                      ratified by the Board and the Association, including schedules and any
                      interpretations. </item>
-                  <item n="2.25" xml:id="s-d1e164">"University" shall mean The University of
+                  <item n="2.24" xml:id="s-d1e164">"University" shall mean The University of
                      Lethbridge.</item>
-                  <item n="2.26" xml:id="s-d1e166">"Vice-President (Academic)" shall mean the
+                  <item n="2.25" xml:id="s-d1e166">"Vice-President (Academic)" shall mean the
                      Vice-President (Academic) of the University, or a person authorized to act in
                      that capacity.</item>
-                  <item n="2.27" xml:id="s-d1e168">"Working days" shall mean Monday through Friday
+                  <item n="2.26" xml:id="s-d1e168">"Working days" shall mean Monday through Friday
                      except holidays as identified within the most current edition of the University
                      of Lethbridge Calendar. </item>
                </list>
